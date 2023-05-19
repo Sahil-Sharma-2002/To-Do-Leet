@@ -1,2 +1,2 @@
 # To-Do-Leet
-A simple project made using the react.js library
+A LeetCode-focused reminder app to boost coding practice and track progress.
